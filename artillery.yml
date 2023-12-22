@@ -1,8 +1,8 @@
 config:
   target: "https://75jpe66qrl.execute-api.eu-west-3.amazonaws.com"
   phases:
-    - duration: 600
-      arrivalRate: 10
+    - duration: 60
+      arrivalRate: 600
 
 scenarios:
   - flow:
